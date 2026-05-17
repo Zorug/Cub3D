@@ -172,4 +172,6 @@ Cub3D/
 
 ---
 
-**Last Updated:** 7th March 2026
+## Developer
+| [<img src="https://avatars.githubusercontent.com/u/54179576?v=4" width=115><br><sub>Cassiano Gross Schuler</sub>](https://github.com/Zorug) | 
+| :---: |
