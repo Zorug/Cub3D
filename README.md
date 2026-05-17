@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by [cgross-s](https://github.com/Zorug), tnuno-mo*
+*This project has been created as part of the 42 curriculum by [cgross-s](https://github.com/Zorug), [tnuno-mo](https://github.com/CreaTico6)*
 
 # Cub3D - A RayCaster Maze Engine
 
